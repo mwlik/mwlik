@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on [twitter](https://twitter.com/MMouhiidine)
 
 <!---
 malikmouhiidine/malikmouhiidine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
