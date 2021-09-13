@@ -1,4 +1,5 @@
-still procrastinating to create this portfolio
+# I'm a programmer who codes in his spare time for fun
+think about that for a while.
 
 <!---
 malikmouhiidine/malikmouhiidine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
