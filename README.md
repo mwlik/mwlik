@@ -55,6 +55,9 @@ I'm Malik Mouhiidine, a Full-Stack Engineer. Welcome to my GitHub profile!
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#532](https://github.com/Unirep/Unirep/issues/532#issuecomment-1688013746) in [Unirep/Unirep](https://github.com/Unirep/Unirep)
+2. 🗣 Commented on [#55331](https://github.com/microsoft/TypeScript/issues/55331#issuecomment-1673522546) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+<!--END_SECTION:activity-->
 
 ## Let's Connect
 
