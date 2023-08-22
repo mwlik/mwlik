@@ -55,7 +55,6 @@ I'm Malik Mouhiidine, a Full-Stack Engineer. Welcome to my GitHub profile!
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## Let's Connect
 
