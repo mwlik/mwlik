@@ -6,6 +6,7 @@ I'm Malik Mouhiidine, a Full-Stack Engineer. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on a secret project 🤫
 - 🌱 I’m currently learning: ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+- ⌚ What I'm planning to learn: AI & ML
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:malikmou2017@gmail.com)
 - ⚡ Fun fact: I love Rfissa
 
