@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hello World! 👋
 
 I'm Malik Mouhiidine, a Full-Stack Engineer. Welcome to my GitHub profile!
 
