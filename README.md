@@ -43,10 +43,6 @@ I'm Malik Mouhiidine, a Full-Stack Engineer. Welcome to my GitHub profile!
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikmouhiidine&show_icons=true&theme=radical)
 
-## Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=malikmouhiidine)
-
-
 ## Recent Projects
 
 - [Timers](https://timersapp.surge.sh/)
