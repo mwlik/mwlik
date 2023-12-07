@@ -38,6 +38,8 @@ I'm Malik Mouhiidine, a Full-Stack Engineer. Welcome to my GitHub profile!
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
+### 42 Stats
+[![malik's 42 stats](https://badge.mediaplus.ma/greenbinary/mmouhiid)](https://github.com/oakoudad/badge42)
 
 ## GitHub Stats
 
