@@ -1,50 +1,54 @@
-# Hello World! 👋
+# Malik
 
-I'm Malik Mouhiidine, a Full-Stack Engineer. Welcome to my GitHub profile!
+Currently interested in web exploitation and hardware hacking among other security-related topics.
 
-## About Me
+---
 
-- 🔭 I’m currently working on a secret project 🤫
-- 🌱 I’m currently learning: ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-- ⌚ What I'm planning to learn: AI & ML. 
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:malikmou2017@gmail.com)
-- ⚡ Fun fact: I love Rfissa. 
+<p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" alt="C#" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
+</p>
+<p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Heroku" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" />
 
 
+</p>
 
-## Tech Stack
+<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmouhiidine&layout=compact&theme=dracula" />
+</p>
 
-### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-
-### Frameworks
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-
-### Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+---
 
 ## 42 Stats
-[![malik's 42 stats](https://badge.mediaplus.ma/greenbinary/mmouhiid)](https://github.com/oakoudad/badge42)
 
-## GitHub Stats
+And I'm a student at 1337 (42Network & UM6P)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikmouhiidine&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikmouhiidine&layout=compact&theme=dark)
+---
+
+<p align="center">
+  <img alt="Malik's 42 stats" src="https://badge.mediaplus.ma/greenbinary/mmouhiid" />
+</p>
+
+---
 
 ## Recent Projects
 
