@@ -37,17 +37,6 @@ Currently interested in web exploitation and hardware hacking among other securi
 </p>
 
 ---
-## 42 Stats
-
-And I'm a student at 1337 (42Network & UM6P)
-
----
-
-<p align="center">
-  <img alt="Malik's 42 stats" src="https://badge.mediaplus.ma/greenbinary/mmouhiid" />
-</p>
-
----
 
 ## Recent Projects
 
