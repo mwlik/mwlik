@@ -38,23 +38,10 @@ Currently interested in web exploitation and hardware hacking among other securi
 
 ---
 
-## Recent Projects
-
-- [Timers](https://timersapp.surge.sh/)
-- [90 minutes sleep cycle calculator](https://sleepcyclecalculator.surge.sh/)
-- [Bookmarks](https://github.com/mwlik/bookmarks)
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#532](https://github.com/Unirep/Unirep/issues/532#issuecomment-1688013746) in [Unirep/Unirep](https://github.com/Unirep/Unirep)
-2. 🗣 Commented on [#55331](https://github.com/microsoft/TypeScript/issues/55331#issuecomment-1673522546) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-<!--END_SECTION:activity-->
-
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-mouhiidine-51b45a1b9/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mwlik)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/malik-mouhiidine)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/m411kpwn)
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch.
 
