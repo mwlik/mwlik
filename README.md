@@ -33,7 +33,7 @@ Currently interested in web exploitation and hardware hacking among other securi
 </p>
 
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmouhiidine&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwlik&layout=compact&theme=dracula" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ Currently interested in web exploitation and hardware hacking among other securi
 
 - [Timers](https://timersapp.surge.sh/)
 - [90 minutes sleep cycle calculator](https://sleepcyclecalculator.surge.sh/)
-- [Bookmarks](https://github.com/malikmouhiidine/bookmarks)
+- [Bookmarks](https://github.com/mwlik/bookmarks)
 
 ## Recent Activity
 
@@ -54,12 +54,12 @@ Currently interested in web exploitation and hardware hacking among other securi
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-mouhiidine-51b45a1b9/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/MalikMouhiidine)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/mwlik)
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch.
 
 
 <!---
-malikmouhiidine/malikmouhiidine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mwlik/mwlik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
