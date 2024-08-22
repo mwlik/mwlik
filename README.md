@@ -40,7 +40,7 @@ Currently interested in web exploitation and hardware hacking among other securi
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/malik-mouhiidine)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/m411k_)
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch.
