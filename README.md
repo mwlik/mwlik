@@ -1,6 +1,6 @@
 # M411K
 
-Currently interested in web exploitation and hardware hacking among other security-related topics.
+Currently interested in browser exploitation and hardware hacking among other security-related topics.
 
 ---
 
